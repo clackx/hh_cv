@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1379064102000 2686 a59c2bef308ac7c7e8d21d84c31a498965a45f9f /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/layout/activity_second.xml
+1378758766000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-v14/styles.xml
+1379063840000 23814 9a27f76f4a29b9e0083de6d29399b9011f8620e1 /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-xxhdpi/ic_launcher.png
+1379063840000 12491 c636056f6a28bc5d98ecd331407976d10a09c7c3 /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-xhdpi/ic_launcher.png
+1379018704000 3718 1b872252ca252a92652d721a03cc3896244b145a /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/layout/activity_main.xml
+1378758766000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-sw720dp-land/dimens.xml
+1378758766000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/styles.xml
+1378758766000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/menu/main.xml
+1379074352000 979 cc205b5f97c453831b8fb7c59108736d3f0cd0ef /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/strings.xml
+1379063840000 8298 c19513d9784519cb4a0d988f9d0fa23203e4039c /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-hdpi/ic_launcher.png
+1378982969000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/menu/second.xml
+1378758766000 181 84de2797380184d8b39af6f829afb092fb956173 /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-sw600dp/dimens.xml
+1379063840000 4708 93bf2a1064073409fc2e0b966fabbb5b562a55b0 /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-mdpi/ic_launcher.png
+1378758766000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/dimens.xml
+1378758766000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-v11/styles.xml

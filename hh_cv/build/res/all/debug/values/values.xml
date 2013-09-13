@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/strings.xml -->
+    <string-array name="sex">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <!-- From: file:/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/dimens.xml -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/strings.xml -->
+    <string name="action_settings">О Программе</string>
+    <string name="app_name">hh_cv</string>
+    <string name="button_a1">Отправить резюме</string>
+    <string name="button_a2">Отправить ответ</string>
+    <string name="hint_birthdate">Дата рождения</string>
+    <string name="hint_emailaddr">Электронная почта</string>
+    <string name="hint_name">ФИО</string>
+    <string name="hint_phonenum">Номер телефона</string>
+    <string name="hint_position">Должность</string>
+    <string name="hint_salary">Зарплата</string>
+    <string name="text_sex">Пол:</string>
+    <string name="title_activity_second">hh_cv Activity-2</string>
+    <string name="tv_label">Ответ:</string>
+    <!-- From: file:/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

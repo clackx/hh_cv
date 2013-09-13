@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/flynn/android/projects/hh_cv/hh_cv/src/debug/assets" />
+    </dataSet>
+
+</merger>

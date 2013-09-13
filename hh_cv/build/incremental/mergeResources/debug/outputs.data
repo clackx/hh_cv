@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378759055000 317 5beeef41ecc1a484febe7105ec966ef7b288c519 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/values-v14/values.xml
+1379064094000 3816 a022af97ff9d0809070de2fdf90e592461b41496 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/layout/activity_main.xml
+1378987276000 333 3a350e4cf38d3f91f1326e66acf47b37cc890276 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/menu/second.xml
+1379064094000 9722 2c8acd0821bebc43e7196a0b3e2254974dc7016b /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1379064743000 2786 552451382dd180b77dbadd4e8cd1da30f93a62b1 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/layout/activity_second.xml
+1379064093000 6609 692e7a018373c7e4b0b434c30066d685defc00cc /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1378759055000 234 38eaceb9057f0877b2c88d5bb2f8fb01200bcb43 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/values-sw720dp-land/values.xml
+1379074390000 1927 5e453a545f3a4ad8e00395ba4d98fd7872199880 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/values/values.xml
+1378759056000 331 23dbce1233405239f81537355181219aed511986 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/menu/main.xml
+1379064094000 18244 35e9cdf66c18fa9e12fa244f0c8f942db898b092 /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1379064094000 3830 d22bb20d84cdad4518af7616ccc47a619255550d /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1378759055000 303 85d6598195255a07b1eb1313bbe0770a103de1ee /home/flynn/android/projects/hh_cv/hh_cv/build/res/all/debug/values-v11/values.xml

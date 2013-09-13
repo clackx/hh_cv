@@ -1,0 +1,21 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378982488000 398 ad6cb6242d71d090bb3d7006ef8dcfec888caa19 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$drawable.class
+1379074395000 1282 36a3a88cb73da8442c4c4435a8f18f9b9f233749 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/MainActivity$1.class
+1378982488000 331 9c7074ad5d4d938095bb8e5a4e6bb27d835ba879 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$attr.class
+1378759067000 339 a3336ce5d6304572a77a0e351c57a0f3d54181a9 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/BuildConfig.class
+1379074395000 878 75864cc62457388a9a7a627279f6221ef5f7a958 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/MainActivity$2.class
+1378982488000 452 c40ff8bea21e7a3a3212b3a244c5bb24fff6c676 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$dimen.class
+1378987283000 409 8614c98d8d592b6d84358502474ccc11ea24a9ad /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$menu.class
+1378645804000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/flynn/android/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1379074395000 880 1b9ce02e57fb65cf7d768abbcc7d1d0e27fb3e0e /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/MainActivity$3.class
+1378987283000 433 fd7e8cfc70546195bbd03d7e6dcbc25a31febac8 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$layout.class
+1379072033000 1653 b6957c7d59c3c9205c576d7a6871d7fad1027750 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/SecondActivity.class
+1379074395000 422 5bb3d0a800450ec9dc6bdc52b9de90bc720b42b1 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$style.class
+1379074395000 2282 d9b8bc9810f49083dd84d8f61ccc4e7c529e6832 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/MainActivity$DatePickerFragment.class
+1378982488000 381 d7524c868d8695ef6e3c2130f746d1476be2532e /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$array.class
+1378990239000 883 28e073f07218d4dee480a707d82b8dfaa9d3ccba /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$id.class
+1379074395000 821 e078e8c239ef227cf3d8cf1396e693bae5c919bb /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R$string.class
+1379074395000 4598 9ca3a89ba39fd5601beefb3eae27792405b1e873 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/MainActivity.class
+1379074395000 692 e15fd07ddcfc6387dd6c81e4e327968278020fb4 /home/flynn/android/projects/hh_cv/hh_cv/build/classes/debug/pro/flynn/hh_cv/R.class

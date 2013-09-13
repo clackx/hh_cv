@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="text_sex" >Пол:
+                </string>
+
+                <string-array name="sex" >
+                    <item>
+Мужской
+                    </item>
+                    <item>
+Женский
+                    </item>
+                </string-array>
+
+                <string name="tv_label" >Ответ:
+                </string>
+                <string name="action_settings" >О Программе
+                </string>
+                <string name="hint_birthdate" >Дата рождения
+                </string>
+                <string name="hint_position" >Должность
+                </string>
+                <string name="title_activity_second" >hh_cv Activity-2
+                </string>
+                <string name="button_a1" >Отправить резюме
+                </string>
+                <string name="hint_emailaddr" >Электронная почта
+                </string>
+                <string name="hint_salary" >Зарплата
+                </string>
+                <string name="button_a2" >Отправить ответ
+                </string>
+                <string name="hint_phonenum" >Номер телефона
+                </string>
+                <string name="app_name" >hh_cv
+                </string>
+                <string name="hint_name" >ФИО
+                </string>
+            </file>
+            <file
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_launcher"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="activity_second"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/layout/activity_second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="second"
+                path="/home/flynn/android/projects/hh_cv/hh_cv/src/main/res/menu/second.xml"
+                qualifiers=""
+                type="menu" />
+        </source>
+        <source path="/home/flynn/android/projects/hh_cv/hh_cv/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/flynn/android/projects/hh_cv/hh_cv/src/debug/res" />
+    </dataSet>
+
+</merger>
